@@ -11,6 +11,7 @@
 <p align="center">
 Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 </p>
+!
 
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
